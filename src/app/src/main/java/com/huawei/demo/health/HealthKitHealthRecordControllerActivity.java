@@ -83,7 +83,7 @@ public class HealthKitHealthRecordControllerActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_health_healthrecord);
+        setContentView(R.layout.health_information);
         init();
     }
 
